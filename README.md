@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. **Download** the compiled executable from the [Releases]((https://github.com/coolshrimp/Factorio-Headless-Server-Tool/releases/)) section.
+1. **Download** the compiled executable from the [Releases]([(https://github.com/coolshrimp/Factorio-Headless-Server-Tool/releases/)](https://github.com/coolshrimp/Factorio-Headless-Server-Tool/releases/)]) section.
 2. **Run the executable**—no installation required.
 
 ## Usage
