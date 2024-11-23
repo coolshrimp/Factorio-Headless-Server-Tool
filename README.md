@@ -2,8 +2,8 @@
 
 **Factorio Headless Server Tool** is a Windows-based utility designed to simplify the management of headless Factorio servers. With this tool, you can easily manage saves, configure settings, and start or stop your server without needing to navigate complex command-line options.
 
-![Main Interface Screenshot](screenshot.jpg)
-![Udater_Interface Screenshot](update-screenshot.jpg)
+![Main Interface Screenshot](Factorio_Headless_Server_Tool-Screenshot.jpg)
+![Udater_Interface Screenshot](Factorio_Headless_Server_Tool-Updater-Screenshot.jpg)
 ## Features
 
 - **Start/Stop Server**: Easily start and stop your Factorio headless server with the click of a button.
