@@ -54,6 +54,10 @@
 
 ## Version History
 
+### v1.3.1
+- **New Feature: Matchmaking Stats Panel**
+  Added a new matchmaking stats panel to display active server details.
+
 ### v1.3.0
 
 - **New Feature: Automatic Update Check with Single Overwrite Prompt**  
