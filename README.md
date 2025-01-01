@@ -112,3 +112,12 @@
 - [Factorio](https://factorio.com/) for their fantastic game.
 - Community resources and documentation for Factorio headless servers.
 - [FactorioSaveGameEnableAchievements](https://github.com/Rainson12/FactorioSaveGameEnableAchievements)
+
+
+## Donate
+
+If you’d like to support the development of tools like this, consider a donation:  
+[**Support Me**](https://links.coolshrimpmodz.com)
+
+---
+
